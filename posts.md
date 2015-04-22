@@ -12,6 +12,8 @@
 
 * [My Coding Sidekick - Seeing is Believing](http://jonwtow.tumblr.com/post/116144382226/my-coding-sidekick-seeing-is-believin/): Jon Tow (4/11/15)
 
+* [Dash](http://kennymiyasato.com/dash/): Kenny Miyasato (04/07/2015)
+
 ##Ruby
 
 * [The layman’s guide to RegEx: What is RegEx exactly?](http://jahde.svbtle.com/ruby-feels-and-introspection): Jahde. (4/8/15)
@@ -23,6 +25,8 @@
 * [||= Or Equals ||=](http://sephhh.github.io/blog/2015/04/15/or-equals/): Seph K. (4/15/15)
 
 * [Object feels and Introspection](http://jahde.svbtle.com/the-laymans-guide-to-regexwhat-is-regex-exactly): Jahde. (4/21/15)
+
+* [-fail-fast-using-pry](http://kennymiyasato.com/-fail-fast-using-pry/): Kenny Miyasato (04/20/2015)
 
 ##SQL
 
